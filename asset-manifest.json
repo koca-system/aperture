@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.89c26d02.js",
+    "static/media/aperture.png": "/static/media/aperture.678bf787643024f035e7.png",
+    "static/media/drone.png": "/static/media/drone.6ba407cae4f06064cc24.png",
+    "static/media/wildlife.png": "/static/media/wildlife.4cc4c70b7fc58e0fecca.png",
+    "static/media/architect.png": "/static/media/architect.fae9fff5ddc8e2719279.png",
+    "static/media/product.png": "/static/media/product.36813b7cf028832a467a.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.89c26d02.js.map": "/static/js/main.89c26d02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.89c26d02.js"
+  ]
+}
